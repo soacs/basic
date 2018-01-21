@@ -1,0 +1,22 @@
+body {
+    padding-top: 70px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: lightcoral;
+    font: 700 24px Open Arial;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+}
+
+div {
+    background-color: lightcoral;
+    color: rgb(0, 0, 0);
+    font: 700 18px Open Arial;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+    border-bottom: 2px solid rgb(136, 136, 136);
+}

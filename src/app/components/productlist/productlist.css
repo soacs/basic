@@ -1,0 +1,17 @@
+
+div {
+    background-color: turquoise;
+    color: rgb(0, 0, 0);
+    font: 700 18px Open Arial;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: turquoise;
+    font: 700 24px Open Arial;
+    top: 0px;
+    margin: 0px;
+    padding: 5px;
+}
